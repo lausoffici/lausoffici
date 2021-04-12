@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Lautaro</h1>
-<h3>A passionate frontend developer from Argentina</h3>
+<h3>A passionate developer from Argentina</h3>
 
 - 🔭 I’m currently working on [My Little School](https://github.com/lausoffici/my-little-school)
 
