@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Little School](https://github.com/lausoffici/my-little-school)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **lautarosoffici@gmail.com**
 
