@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Lautaro</h1>
 <h3>A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [My Little School](https://github.com/lausoffici/my-little-school)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 📫 How to reach me **lautarosoffici@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
